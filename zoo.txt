@@ -5,3 +5,5 @@ wolf
 tiger
 snakanimal
 anythig
+new animal 
+new animal2
